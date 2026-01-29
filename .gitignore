@@ -1,6 +1,7 @@
 data_preparing/data/mascdb
 data_preparing/data/garbage
 data_preparing/data/planar_cam1_1024x1024.npy
+.idea
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
